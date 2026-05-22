@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.markdown("*Streamlit* is **really** ***cool***.")
+st.markdown("*Hello* aku **elvia** ***keren***.")
 st.markdown('''
     :red[Streamlit] :orange[can] :green[write] :blue[text] :violet[in]
     :gray[pretty] :rainbow[colors] and :blue-background[highlight] text.''')
