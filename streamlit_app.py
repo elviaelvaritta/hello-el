@@ -2,7 +2,7 @@ import streamlit as st
 
 st.markdown("*Hello* aku **elvia** ***keren***.")
 st.markdown('''
-    :red[Streamlit] :orange[can] :green[write] :blue[text] :violet[in]
+    :red[Selamat] :orange[datang] :green[di aplikasi] :blue[ini] :violet[in]
     :gray[pretty] :rainbow[colors] and :blue-background[highlight] text.''')
 st.markdown("Here's a bouquet &mdash;\
             :tulip::cherry_blossom::rose::hibiscus::sunflower::blossom:")
