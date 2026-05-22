@@ -7,9 +7,5 @@ st.markdown('''
 st.markdown("Here's a bouquet &mdash;\
             :tulip::cherry_blossom::rose::hibiscus::sunflower::blossom:")
 
-multi = '''If you end a line with two spaces,
-a soft return is used for the next line.
-
-Two (or more) newline characters in a row will result in a hard return.
-'''
+multi = '''enjoy!!!'''
 st.markdown(multi)
